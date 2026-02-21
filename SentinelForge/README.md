@@ -2,8 +2,6 @@
 
 SentinelForge is a next-generation, multi-modal **Autonomous Endpoint Detection and Response (EDR / IPS)** platform designed to detect and neutralize advanced cyber threats in real-time. Built specifically for Hackfest, it leverages localized AI models, generative SOC intelligence, and low-level system sub-agents to create an active defense shield around monitored workstations.
 
-![Premium Glassmorphism Demo](backend/SentinelForge-Vault/dashboard-demo-placeholder.webp)
-
 ## Features
 
 SentinelForge operates using a central **Agentic Manager** that distributes compute across specialized AI and heuristic forensic agents:
